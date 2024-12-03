@@ -1,16 +1,13 @@
-# flutter_application_1
+# flutter_application
 
-A new Flutter project.
+Приложение предоставляет пользователям возможность просматривать каталог товаров и добавлять их в корзину.
 
-## Getting Started
+## Технологии:
+Flutter: Фреймворк для создания нативных мобильных приложений.
+Provider: Пакет, используемый для управления состоянием корзины.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Использование
+Откройте приложение на вашем устройстве или эмуляторе.
+Просмотрите каталог товаров.
+Нажмите на товар, чтобы добавить его в корзину.
+Получите уведомление о успешном добавлении товара в корзину.
